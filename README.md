@@ -1,5 +1,5 @@
 
-# Yoshidalab's Website
+# Yoshida lab Website
 
 Visit **[ayoshidalab.github.io/YoshidaLab](https://ayoshidalab.github.io/YoshidaLab)** 🚀
 
