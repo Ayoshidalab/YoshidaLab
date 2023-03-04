@@ -5,7 +5,7 @@ Visit **[ayoshidalab.github.io/YoshidaLab](https://ayoshidalab.github.io/Yoshida
 
 Dr. Yoshida's lab website. 
 
-Contact:  yoshida.melanoma.lab@gmail.com
+Contact: axy234@case.edu
 
 
 
